@@ -6,6 +6,12 @@
   <atom:link href="https://wilsonhuynh1978-cmyk.github.io/signal-digest/rss.xml" rel="self" type="application/rss+xml"/>
   <language>en-us</language>
   <description>A two-host AI digest podcast, auto-generated from the latest videos on IBM Technology, Y Combinator, Matt Pocock, and Silicon Valley Girl. Nova and Cole find the cross-cutting threads between them.</description>
+  <image>
+    <url>https://wilsonhuynh1978-cmyk.github.io/signal-digest/cover.jpg</url>
+    <title>Signal Digest</title>
+    <link>https://wilsonhuynh1978-cmyk.github.io/signal-digest/</link>
+  </image>
+  <itunes:image href="https://wilsonhuynh1978-cmyk.github.io/signal-digest/cover.jpg"/>
   <itunes:author>Signal Digest</itunes:author>
   <itunes:owner>
     <itunes:name>Signal Digest</itunes:name>
