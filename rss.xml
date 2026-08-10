@@ -22,5 +22,15 @@
   <itunes:category text="Society &amp; Culture"/>
   <itunes:type>episodic</itunes:type>
 
+  <item>
+    <title>Own Your Intelligence: The Diffusion of AGI and the Skills You Keep</title>
+    <description>Everyone is watching the sky, but the thing they're watching for is already in the room — a folder of markdown files and a job that finishes while you sleep. The most valuable AI asset is not the model but the personal context and skills you build around it — the 'library and librarian' — which compounds and can be owned, not rented. Synthesized from IBM Technology, Matt Pocock, Y Combinator.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260809-own-your-intelligence-the-diffusion-of-agi-and-the-skills.mp3" length="19139041" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-ai-20260809_215251</guid>
+    <pubDate>Mon, 10 Aug 2026 22:55:12 +0000</pubDate>
+    <itunes:duration>00:31:31</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
