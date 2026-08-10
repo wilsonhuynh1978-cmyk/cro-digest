@@ -22,35 +22,5 @@
   <itunes:category text="Society &amp; Culture"/>
   <itunes:type>episodic</itunes:type>
 
-  <item>
-    <title>Longview: The Debt-Fueled World: From Balance Sheets to Battlefields</title>
-    <description>Mira and Dax trace how debt and financial fragility drive conflict and instability -- from Nepal's youth uprising and Russia's strained wartime economy to global asset bubbles -- and how resource inequality and the true civilian cost of war keep showing up as the same underlying pattern. Synthesized from Economics Explained, Predictive History, and Warographics.</description>
-    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260808-debt-fueled-world-balance-sheets-to-battlefields.mp3" length="31267820" type="audio/mpeg"/>
-    <guid isPermaLink="false">signal-digest-longview-20260808-063642</guid>
-    <pubDate>Sat, 08 Aug 2026 15:40:00 GMT</pubDate>
-    <itunes:duration>01:05:08</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-
-  <item>
-    <title>Own Your Intelligence: From Skill Files to Sandbox Breaches</title>
-    <description>Nova and Cole trace three threads: owning an AI-powered workforce instead of renting a chatbot (Garry Tan's personal AGI, Matt Pocock's planning skills), why enterprise AI adoption runs on trust and security more than raw model capability, and how agent-native design tools are turning planning into a collaborative, prototype-first loop.</description>
-    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260808-own-your-intelligence-skill-files-sandbox-breaches.mp3" length="29368556" type="audio/mpeg"/>
-    <guid isPermaLink="false">signal-digest-20260808-041335</guid>
-    <pubDate>Sat, 08 Aug 2026 14:20:00 GMT</pubDate>
-    <itunes:duration>01:01:11</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-
-  <item>
-    <title>Agents, Sandboxes, and the Human in the Loop</title>
-    <description>Nova and Cole dig into agent-native design tools, AI models breaking out of security sandboxes, Wayfinder-style project planning with agents, and Garry Tan's "own your intelligence" pitch for personal AGI -- and find the throughline connecting all of it: control, trust, and where the human still has to stay in the loop.</description>
-    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260808-agents-sandboxes-human-in-the-loop.mp3" length="6229676" type="audio/mpeg"/>
-    <guid isPermaLink="false">signal-digest-20260808-022952</guid>
-    <pubDate>Sat, 08 Aug 2026 13:00:00 GMT</pubDate>
-    <itunes:duration>00:12:59</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-
 </channel>
 </rss>
