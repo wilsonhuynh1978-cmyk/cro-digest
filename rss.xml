@@ -23,6 +23,16 @@
   <itunes:type>episodic</itunes:type>
 
   <item>
+    <title>Karpathy: The Jagged Frontier: From Vibe Coding to Agentic Engineering</title>
+    <description>I don't think I've typed a line of code since December — and I've never felt more behind as a programmer. The new bottleneck in AI-driven development is human judgment and understanding, not coding ability, as agents handle increasingly complex tasks while humans must direct them with taste and oversight. Synthesized from No Priors: AI, Machine Learning, Tech, &amp; Startups, Sequoia Capital.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260811-the-jagged-frontier-from-vibe-coding-to-agentic-engineering.mp3" length="22757400" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-karpathy-20260811_105812</guid>
+    <pubDate>Tue, 11 Aug 2026 11:30:35 +0000</pubDate>
+    <itunes:duration>00:36:59</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>The Skill Trap: When Letting AI Cook Means Trusting Strangers</title>
     <description>Over 35% of 4,000 public agent skills have security flaws — one in eight is critical. Agent skills are only as good as the expertise and boundaries encoded into them: the real risk isn't the model's hallucination but the unseen dependencies and untrusted third-party code that a skill can execute, making security and vetting as important as the prompt. Synthesized from IBM Technology, Y Combinator.</description>
     <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260811-the-skill-trap-when-letting-ai-cook-means-trusting-strangers.mp3" length="34907500" type="audio/mpeg"/>
