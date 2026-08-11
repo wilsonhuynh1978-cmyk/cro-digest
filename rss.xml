@@ -23,6 +23,16 @@
   <itunes:type>episodic</itunes:type>
 
   <item>
+    <title>The Skill Trap: When Letting AI Cook Means Trusting Strangers</title>
+    <description>Over 35% of 4,000 public agent skills have security flaws — one in eight is critical. Agent skills are only as good as the expertise and boundaries encoded into them: the real risk isn't the model's hallucination but the unseen dependencies and untrusted third-party code that a skill can execute, making security and vetting as important as the prompt. Synthesized from IBM Technology, Y Combinator.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260811-the-skill-trap-when-letting-ai-cook-means-trusting-strangers.mp3" length="34907500" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-ai-20260811_000223</guid>
+    <pubDate>Tue, 11 Aug 2026 00:26:31 +0000</pubDate>
+    <itunes:duration>00:56:41</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>Science: The Uncontainable: AI, Fiction, and Friction</title>
     <description>Containment is not possible, but it has to be possible, because otherwise it contains us. AI's omni-use nature and the paradox of control: the same technology that can find tumors can target battlefield targets, making effective containment both impossible and essential, while competitive pressures drive every organization to race for intelligence regardless of risk. Synthesized from DOAC, JRE, StarTalk.</description>
     <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260810-the-uncontainable-ai-fiction-and-friction.mp3" length="22274732" type="audio/mpeg"/>
