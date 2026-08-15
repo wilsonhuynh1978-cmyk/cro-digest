@@ -23,6 +23,16 @@
   <itunes:type>episodic</itunes:type>
 
   <item>
+    <title>The Containment Paradox: Open Models, Closed Gaps, and the Security Tightrope</title>
+    <description>When your own AI gets hacked and you delay the next release, the real headline isn't the model—it's the uncomfortable truth that keeping secrets might be the only way to keep control. The open vs. closed model debate is a security tension, not just an ideological one: while open models democratize access and accelerate innovation, they also spread capabilities that can be weaponized, forcing organizations to balance openness against containment. Synthesized from IBM Technology, Y Combinator.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260815-the-containment-paradox-open-models-closed-gaps-and-the-security.mp3" length="20806699" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-ai-20260815_201737</guid>
+    <pubDate>Sat, 15 Aug 2026 20:28:54 +0000</pubDate>
+    <itunes:duration>00:33:58</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>Architect Prep: Scenario walkthroughs — all six bank scenarios end-to-end, plus exam-day strategy</title>
     <description>A misconfigured `always_ask` on your bash tool can stall your entire customer-support session like that, but get the debug CI backoff wrong and you'll watch your multi-agent orchestration burn tokens three-times over—today we break down the six scenarios you'll most likely see on the exam. Customer Support Resolution Agent — full scenario walkthrough with the architecture decision points Synthesized from Anthropic docs.</description>
     <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260815-scenario-walkthroughs-all-six-bank-scenarios-end-to-end-plus.mp3" length="91653894" type="audio/mpeg"/>
