@@ -23,6 +23,16 @@
   <itunes:type>episodic</itunes:type>
 
   <item>
+    <title>Architect Prep: Domain 5 — subagent isolation, scratchpads, stateless Messages API design, confidence-based escalation</title>
+    <description>The Messages API forgets nothing—but it never remembers anything either: so who's responsible when your customer-support agent loses the ticket context mid-escalation? Subagent isolation — what it buys you and what it costs, and when to pay for it Synthesized from Anthropic docs.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260815-domain-5-subagent-isolation-scratchpads-stateless-messages-api-design-confidence.mp3" length="59414917" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-architect-prep-20260815_164023</guid>
+    <pubDate>Sat, 15 Aug 2026 17:19:31 +0000</pubDate>
+    <itunes:duration>01:37:45</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>Architect Prep: Domain 2 — tool design, structured tool errors, MCP scopes &amp; authentication, tool_choice</title>
     <description>Your tool description is the difference between Claude calling get_weather or hallucinating a weather report—so why is yours still one sentence? Writing a high-quality tool description — what makes the model pick the right tool reliably Synthesized from Anthropic docs.</description>
     <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260815-domain-2-tool-design-structured-tool-errors-mcp-scopes-authentication.mp3" length="68484688" type="audio/mpeg"/>
