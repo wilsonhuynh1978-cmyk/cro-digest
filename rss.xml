@@ -23,6 +23,16 @@
   <itunes:type>episodic</itunes:type>
 
   <item>
+    <title>Architect Prep: Domain 3a — CLAUDE.md, .claude/rules/, settings, and permissions</title>
+    <description>A deny rule in your settings blocks `Bash(aws *)` — but your Claude.md says 'never deploy to prod' — which one actually enforces the policy when Claude reaches for the AWS CLI? What belongs in CLAUDE.md vs what belongs in .claude/rules/ Synthesized from Anthropic docs.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260815-domain-3a-claude-md-claude-rules-settings-and-permissions.mp3" length="63957002" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-architect-prep-20260815_155600</guid>
+    <pubDate>Sat, 15 Aug 2026 16:34:10 +0000</pubDate>
+    <itunes:duration>01:45:13</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>Architect Prep: Domain 1b — PreToolUse/PostToolUse hooks, stop_reason loop control, session resumption, resolution vs escalation</title>
     <description>A PostToolUse hook can enforce what a system prompt never can — it auto-runs Prettier after every Edit, so 'format this file' isn't a request, it's a guarantee. PreToolUse and PostToolUse hooks — what each can enforce that a system prompt cannot Synthesized from Anthropic docs.</description>
     <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260815-domain-1b-pretooluse-posttooluse-hooks-stop-reason-loop-control-session.mp3" length="67240229" type="audio/mpeg"/>
