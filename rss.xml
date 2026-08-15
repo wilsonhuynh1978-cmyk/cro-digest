@@ -23,6 +23,16 @@
   <itunes:type>episodic</itunes:type>
 
   <item>
+    <title>Architect Prep: Scenario walkthroughs — all six bank scenarios end-to-end, plus exam-day strategy</title>
+    <description>A misconfigured `always_ask` on your bash tool can stall your entire customer-support session like that, but get the debug CI backoff wrong and you'll watch your multi-agent orchestration burn tokens three-times over—today we break down the six scenarios you'll most likely see on the exam. Customer Support Resolution Agent — full scenario walkthrough with the architecture decision points Synthesized from Anthropic docs.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260815-scenario-walkthroughs-all-six-bank-scenarios-end-to-end-plus.mp3" length="91653894" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-architect-prep-20260815_165447</guid>
+    <pubDate>Sat, 15 Aug 2026 18:14:20 +0000</pubDate>
+    <itunes:duration>03:10:56</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>Architect Prep: Domain 5 — subagent isolation, scratchpads, stateless Messages API design, confidence-based escalation</title>
     <description>The Messages API forgets nothing—but it never remembers anything either: so who's responsible when your customer-support agent loses the ticket context mid-escalation? Subagent isolation — what it buys you and what it costs, and when to pay for it Synthesized from Anthropic docs.</description>
     <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260815-domain-5-subagent-isolation-scratchpads-stateless-messages-api-design-confidence.mp3" length="59414917" type="audio/mpeg"/>
