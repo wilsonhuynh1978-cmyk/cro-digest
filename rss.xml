@@ -23,6 +23,16 @@
   <itunes:type>episodic</itunes:type>
 
   <item>
+    <title>Architect Prep: Domain 2 — tool design, structured tool errors, MCP scopes &amp; authentication, tool_choice</title>
+    <description>Your tool description is the difference between Claude calling get_weather or hallucinating a weather report—so why is yours still one sentence? Writing a high-quality tool description — what makes the model pick the right tool reliably Synthesized from Anthropic docs.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260815-domain-2-tool-design-structured-tool-errors-mcp-scopes-authentication.mp3" length="68484688" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-architect-prep-20260815_163120</guid>
+    <pubDate>Sat, 15 Aug 2026 17:11:47 +0000</pubDate>
+    <itunes:duration>01:51:32</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>Architect Prep: Domain 4 — the reliability ladder for structured output, JSON-schema tool use, and fabrication prevention</title>
     <description>Without strict schema constraints, Claude might return `passengers: "two"` — and your booking system crashes. Here's how to climb the reliability ladder from free-text to schema-constrained tool use. The reliability ladder: free-text → formatted prose → JSON-mode → schema-constrained tool use Synthesized from Anthropic docs.</description>
     <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260815-domain-4-the-reliability-ladder-for-structured-output-json-schema.mp3" length="56340986" type="audio/mpeg"/>
