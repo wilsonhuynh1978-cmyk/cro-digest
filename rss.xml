@@ -23,6 +23,16 @@
   <itunes:type>episodic</itunes:type>
 
   <item>
+    <title>Architect Prep: Domain 1b — PreToolUse/PostToolUse hooks, stop_reason loop control, session resumption, resolution vs escalation</title>
+    <description>A PostToolUse hook can enforce what a system prompt never can — it auto-runs Prettier after every Edit, so 'format this file' isn't a request, it's a guarantee. PreToolUse and PostToolUse hooks — what each can enforce that a system prompt cannot Synthesized from Anthropic docs.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260815-domain-1b-pretooluse-posttooluse-hooks-stop-reason-loop-control-session.mp3" length="67240229" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-architect-prep-20260815_152339</guid>
+    <pubDate>Sat, 15 Aug 2026 16:06:16 +0000</pubDate>
+    <itunes:duration>01:49:45</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>Architect Prep: Orientation — how the Claude Certified Architect exam actually works</title>
     <description>The exam won't ask you to recite what an MCP server is—it'll hand you a scenario where a single agent with every skill is choking on context, and all four wrong answers sound like the right tool until you realize they've slipped a subagent into a thread that has 20-agent roster limits. What the exam is actually testing: architectural judgment on scenarios, not trivia recall Synthesized from Anthropic docs.</description>
     <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260815-orientation-how-the-claude-certified-architect-exam-actually-works.mp3" length="49576485" type="audio/mpeg"/>
