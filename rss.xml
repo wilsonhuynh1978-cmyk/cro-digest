@@ -23,6 +23,16 @@
   <itunes:type>episodic</itunes:type>
 
   <item>
+    <title>Architect Prep: Domain 3b — slash commands &amp; Skills, plan mode, iterative refinement, configuration trade-offs</title>
+    <description>Your CLAUDE.md is bloated and every word you add to it costs tokens on every single session — but a Skill's 100-token description is free until you actually need the procedure. Custom slash commands vs Skills — when a procedure should become one or the other Synthesized from Anthropic docs.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260815-domain-3b-slash-commands-skills-plan-mode-iterative-refinement-configuration.mp3" length="72302373" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-architect-prep-20260815_161228</guid>
+    <pubDate>Sat, 15 Aug 2026 16:51:08 +0000</pubDate>
+    <itunes:duration>01:58:33</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>Architect Prep: Domain 3a — CLAUDE.md, .claude/rules/, settings, and permissions</title>
     <description>A deny rule in your settings blocks `Bash(aws *)` — but your Claude.md says 'never deploy to prod' — which one actually enforces the policy when Claude reaches for the AWS CLI? What belongs in CLAUDE.md vs what belongs in .claude/rules/ Synthesized from Anthropic docs.</description>
     <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260815-domain-3a-claude-md-claude-rules-settings-and-permissions.mp3" length="63957002" type="audio/mpeg"/>
