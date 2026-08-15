@@ -23,6 +23,16 @@
   <itunes:type>episodic</itunes:type>
 
   <item>
+    <title>Architect Prep: Orientation — how the Claude Certified Architect exam actually works</title>
+    <description>The exam won't ask you to recite what an MCP server is—it'll hand you a scenario where a single agent with every skill is choking on context, and all four wrong answers sound like the right tool until you realize they've slipped a subagent into a thread that has 20-agent roster limits. What the exam is actually testing: architectural judgment on scenarios, not trivia recall Synthesized from Anthropic docs.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260815-orientation-how-the-claude-certified-architect-exam-actually-works.mp3" length="49576485" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-architect-prep-20260815_151027</guid>
+    <pubDate>Sat, 15 Aug 2026 15:43:58 +0000</pubDate>
+    <itunes:duration>01:21:43</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>Architect Prep: Domain 1a — orchestration-layer safeguards, structured handoffs, dynamic task decomposition</title>
     <description>When you delegate to a subagent, the only thing that crosses the boundary is the prompt string you pass to the Agent tool -- not your system prompt, not your conversation history, not your secrets. Choosing orchestration-layer safeguards (hooks, permission policies, tool restrictions) vs relying on model judgment inside a single agent -- the model-discretion trap Synthesized from Anthropic docs.</description>
     <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260815-domain-1a-orchestration-layer-safeguards-structured-handoffs-dynamic-task-decomposition.mp3" length="73932041" type="audio/mpeg"/>
