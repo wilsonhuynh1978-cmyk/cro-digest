@@ -23,6 +23,16 @@
   <itunes:type>episodic</itunes:type>
 
   <item>
+    <title>Longview: The Economic Siege: Iran's War on a Timer</title>
+    <description>Iran's military can keep firing $20,000 drones, but its civilians are running out of food, water, and patience. Iran's underlying economic fragility undercuts the cost-asymmetry argument, creating a finite timeline for its war effort. Synthesized from Economics Explained, Predictive History, Warographics.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260816-the-economic-siege-iran-s-war-on-a-timer.mp3" length="20931962" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-longview-20260816_211708</guid>
+    <pubDate>Sun, 16 Aug 2026 21:30:39 +0000</pubDate>
+    <itunes:duration>00:33:15</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>The Containment Paradox: Open Models, Closed Gaps, and the Security Tightrope</title>
     <description>When your own AI gets hacked and you delay the next release, the real headline isn't the model—it's the uncomfortable truth that keeping secrets might be the only way to keep control. The open vs. closed model debate is a security tension, not just an ideological one: while open models democratize access and accelerate innovation, they also spread capabilities that can be weaponized, forcing organizations to balance openness against containment. Synthesized from IBM Technology, Y Combinator.</description>
     <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260815-the-containment-paradox-open-models-closed-gaps-and-the-security.mp3" length="20806699" type="audio/mpeg"/>
