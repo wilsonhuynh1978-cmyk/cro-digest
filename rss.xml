@@ -23,6 +23,16 @@
   <itunes:type>episodic</itunes:type>
 
   <item>
+    <title>Longview: The Hidden Winners and Losing Legacies</title>
+    <description>While the world watches the fighting, Russia and China are quietly winning the Iran war—making peace less likely with every passing day. The Iran conflict is creating a strategic incentive alignment for Russia and China to prolong the war, as both gain economic and geopolitical advantages from its continuation, making negotiated peace increasingly difficult. Synthesized from Economics Explained, Predictive History, Warographics.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260823-the-hidden-winners-and-losing-legacies.mp3" length="23346522" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-longview-20260823_211658</guid>
+    <pubDate>Sun, 23 Aug 2026 21:31:32 +0000</pubDate>
+    <itunes:duration>00:37:06</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>The Post-Model Economy: Who Owns the Tollbooth?</title>
     <description>Stripe just paid $7 billion for a company most people have never heard of—because the model isn't the product anymore. The model layer is commoditizing, and the real value is shifting to the orchestration, routing, and control plane that sits above models and beneath the enterprise. Synthesized from IBM Technology, Matt Pocock, Silicon Valley Girl, Y Combinator.</description>
     <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260822-the-post-model-economy-who-owns-the-tollbooth.mp3" length="19676246" type="audio/mpeg"/>
