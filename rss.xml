@@ -23,6 +23,16 @@
   <itunes:type>episodic</itunes:type>
 
   <item>
+    <title>Science: The Attention Economy's Human Cost</title>
+    <description>We are entertaining ourselves to death, and the smartest engineers on Earth are building the machines that do it. The business model of tech platforms, not the technology itself, is what drives the addiction and polarization we see in AI and social media, and changing that model is the only real fix. Synthesized from DOAC, JRE, StarTalk.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260826-the-attention-economy-s-human-cost.mp3" length="19980264" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-science-20260826_212856</guid>
+    <pubDate>Wed, 26 Aug 2026 21:42:00 +0000</pubDate>
+    <itunes:duration>00:32:34</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>Science: The Simulation Trap: When Math Outruns Reality</title>
     <description>We fear AI because it's just computers doing more stuff, but the real danger isn't the machine—it's what we choose to do with it. AI risk is often a misnomer: the same underlying computing power that enables transformative breakthroughs like AlphaFold also enables autonomous weapons, and our fear of 'AI' conflates a tool with its uses, echoing historical anxieties about computers controlling nukes. Synthesized from DOAC, JRE, StarTalk.</description>
     <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260826-the-simulation-trap-when-math-outruns-reality.mp3" length="27140358" type="audio/mpeg"/>
