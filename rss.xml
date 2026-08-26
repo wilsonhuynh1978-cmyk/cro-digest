@@ -23,6 +23,16 @@
   <itunes:type>episodic</itunes:type>
 
   <item>
+    <title>Science: The Simulated Self: How We Define Humanity in the Age of AI</title>
+    <description>We're teaching machines to think, but we haven't decided what thinking means anymore. The definition of intelligence is being reshaped by AI, with contrasting views on whether machine intelligence is a simulation or a new form and how that affects human uniqueness. Synthesized from DOAC, JRE, StarTalk.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260826-the-simulated-self-how-we-define-humanity-in-the-age.mp3" length="30633616" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-science-20260826_212845</guid>
+    <pubDate>Wed, 26 Aug 2026 21:47:23 +0000</pubDate>
+    <itunes:duration>00:49:20</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>Science: The Attention Economy's Human Cost</title>
     <description>We are entertaining ourselves to death, and the smartest engineers on Earth are building the machines that do it. The business model of tech platforms, not the technology itself, is what drives the addiction and polarization we see in AI and social media, and changing that model is the only real fix. Synthesized from DOAC, JRE, StarTalk.</description>
     <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260826-the-attention-economy-s-human-cost.mp3" length="19980264" type="audio/mpeg"/>
