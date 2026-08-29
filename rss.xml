@@ -23,6 +23,16 @@
   <itunes:type>episodic</itunes:type>
 
   <item>
+    <title>The Open Weave: Centralization vs. Collaboration in AI</title>
+    <description>Nvidia is spending billions to own the open-source AI ecosystem, but can the center of gravity be bought without bending the arc of innovation? The push and pull between centralized control and decentralized innovation: Nvidia's acquisitions of Hugging Face and Poolside aim to secure its hardware dominance by fueling a many-model ecosystem, while the stealth launch of a top-tier Chinese model shows how open, distributed progress can still disrupt incumbents and avoid the bottlenecks of big-tech gates. Synthesized from IBM Technology, Silicon Valley Girl, Y Combinator.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260829-the-open-weave-centralization-vs-collaboration-in-ai.mp3" length="22819112" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-ai-20260829_201833</guid>
+    <pubDate>Sat, 29 Aug 2026 20:30:12 +0000</pubDate>
+    <itunes:duration>00:36:32</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>Science: When Science Is Right but the World Is Wrong</title>
     <description>Science is not a pure pursuit of truth; it's a battlefield where being right can get you fired, exiled, or even committed. Scientific truth often struggles against entrenched systems, as seen in Semmelweis and Kariko's experiences, where institutional inertia, grant politics, and career pressures can suppress correct ideas, paralleling today's debates around AI research and its societal impact. Synthesized from DOAC, JRE, StarTalk.</description>
     <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260826-when-science-is-right-but-the-world-is-wrong.mp3" length="30108291" type="audio/mpeg"/>
