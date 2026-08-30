@@ -23,6 +23,16 @@
   <itunes:type>episodic</itunes:type>
 
   <item>
+    <title>Longview: The Cartel Paradox: Oil, OPEC, and the Limits of Control</title>
+    <description>The UAE just quit OPEC, and the oil cartel's collapse may be the opening move in a global game of strategic defection. Coordination in cartels and alliances is fragile: OPEC's decline, like the Taliban's military stagnation and the US Navy's shipbuilding woes, shows that collective action fails when individual incentives diverge and cheating becomes rational. Synthesized from Economics Explained, Predictive History, Warographics.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260830-the-cartel-paradox-oil-opec-and-the-limits-of-control.mp3" length="29671991" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-longview-20260830_211801</guid>
+    <pubDate>Sun, 30 Aug 2026 21:34:49 +0000</pubDate>
+    <itunes:duration>00:47:24</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>The Open Weave: Centralization vs. Collaboration in AI</title>
     <description>Nvidia is spending billions to own the open-source AI ecosystem, but can the center of gravity be bought without bending the arc of innovation? The push and pull between centralized control and decentralized innovation: Nvidia's acquisitions of Hugging Face and Poolside aim to secure its hardware dominance by fueling a many-model ecosystem, while the stealth launch of a top-tier Chinese model shows how open, distributed progress can still disrupt incumbents and avoid the bottlenecks of big-tech gates. Synthesized from IBM Technology, Silicon Valley Girl, Y Combinator.</description>
     <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260829-the-open-weave-centralization-vs-collaboration-in-ai.mp3" length="22819112" type="audio/mpeg"/>
