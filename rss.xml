@@ -23,6 +23,16 @@
   <itunes:type>episodic</itunes:type>
 
   <item>
+    <title>The Controlled Chaos of AI</title>
+    <description>The old days are gone—unless you never had them—and the finish line of AI turns out to be a smear. AI needs guardrails and structure to keep it from causing chaos, whether that's in enterprise software or physical hardware. Synthesized from IBM Technology, Y Combinator.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260904-the-controlled-chaos-of-ai.mp3" length="30045305" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-ai-20260904_121459</guid>
+    <pubDate>Fri, 04 Sep 2026 12:29:00 +0000</pubDate>
+    <itunes:duration>00:48:13</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>Science: The Credibility Gap: AI, Diets, and Dark Matter</title>
     <description>AI, the carnivore diet, and dark matter all have one thing in common: the truth is being buried under hype, fear, and overblown claims. In all three fields—AI, nutrition, and cosmology—public narratives are driven by hype and catastrophic predictions, while actual scientific progress is more nuanced and incremental. Synthesized from DOAC, JRE, StarTalk.</description>
     <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260904-the-credibility-gap-ai-diets-and-dark-matter.mp3" length="37356288" type="audio/mpeg"/>
