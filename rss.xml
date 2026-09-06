@@ -23,6 +23,16 @@
   <itunes:type>episodic</itunes:type>
 
   <item>
+    <title>Longview: The Invisible War: AI's Silent Front and Gaza's Unseen Storm</title>
+    <description>A single metric shows AI's economic impact is five times larger than anyone thought—and it's not where you'd expect. AI's macroeconomic exposure is hidden beyond the tech sector, affecting white-collar jobs, and challenges standard economic metrics. Synthesized from Economics Explained, Predictive History, Warographics.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260906-the-invisible-war-ai-s-silent-front-and-gaza-s.mp3" length="32742972" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-longview-20260906_211827</guid>
+    <pubDate>Sun, 06 Sep 2026 21:37:35 +0000</pubDate>
+    <itunes:duration>00:51:50</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>Who’s in Control? The Security and Accountability Behind AI Agents</title>
     <description>In the coming months, AI-enabled cyber attacks will become far more widespread and sophisticated as models around the world become increasingly capable. AI is shifting digital control from human-led decisions to a distributed landscape, forcing defenders and enterprises to redefine accountability and ownership across data, compute, and intelligence layers. Synthesized from IBM Technology, Silicon Valley Girl, Y Combinator.</description>
     <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260905-who-s-in-control-the-security-and-accountability-behind-ai.mp3" length="23535034" type="audio/mpeg"/>
