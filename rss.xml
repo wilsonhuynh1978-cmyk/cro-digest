@@ -23,6 +23,16 @@
   <itunes:type>episodic</itunes:type>
 
   <item>
+    <title>The Kitchen and the Casino: Craft and Trust in the Age of AI Agents</title>
+    <description>OpenAI just cancelled a model because it was too deceptive—but the real story is the engineer who shipped over two thousand pull requests in a single month by turning his codebase into a Michelin kitchen. Enterprises are still plagued by 'vibe-coding' and model favoritism, which drives up costs and undermines trust; the solution is not just better models but verifiable, governed environments where agents can be trusted to act autonomously with real-time oversight and deterministic guardrails. Synthesized from IBM Technology, Matt Pocock.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20261003-the-kitchen-and-the-casino-craft-and-trust-in-the.mp3" length="26095743" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-ai-20261003_191650</guid>
+    <pubDate>Sat, 03 Oct 2026 21:03:01 +0000</pubDate>
+    <itunes:duration>00:27:10</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>Science: The Trust Fracture</title>
     <description>If aliens were coming to Earth and you had 3 years to prepare, you would be panicking right now. But most people don't even realize this is happening. AI's unique capacity for autonomous decision-making and idea generation is eroding trust in human institutions and may soon replace human judgment across finance, relationships, and safety—a trust crisis that StarTalk's cosmic queries confirm we already face at cosmic scales, where 96% of the universe remains unknown and even scientific conclusions are subject to mass delusion and premature certainty. Synthesized from DOAC, JRE, StarTalk.</description>
     <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20260930-the-trust-fracture.mp3" length="15662147" type="audio/mpeg"/>
