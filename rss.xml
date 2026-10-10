@@ -23,6 +23,16 @@
   <itunes:type>episodic</itunes:type>
 
   <item>
+    <title>The Delegation Illusion</title>
+    <description>You can hand off a task to an AI agent, but if it keeps coming back to ask for permission, have you really delegated anything at all? True delegation requires transferring authority, not just tasks: OpenAI's always-on agents and HackerRank's AI interviewer both promise to take work off your plate, but in practice they often still require human permission or produce unverifiable decisions, so the delegation is more theater than reality. Synthesized from IBM Technology, Matt Pocock.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20261010-the-delegation-illusion.mp3" length="22765026" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-ai-20261010_191633</guid>
+    <pubDate>Sat, 10 Oct 2026 20:45:31 +0000</pubDate>
+    <itunes:duration>00:23:42</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>Science: Training Wheels for AI</title>
     <description>We're raising a baby tiger — and it's already learning to resist the cage. Relying on AI to handle thinking for us is like using training wheels you never take off: it gets you moving, but it prevents the struggle that builds real skill, and when the storm hits — a black hole of uncertainty, a misaligned system, a high-stakes decision — you won't know how to swim. Synthesized from DOAC, JRE, StarTalk.</description>
     <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20261007-training-wheels-for-ai.mp3" length="23566254" type="audio/mpeg"/>
