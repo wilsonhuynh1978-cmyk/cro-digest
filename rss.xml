@@ -23,6 +23,16 @@
   <itunes:type>episodic</itunes:type>
 
   <item>
+    <title>Longview: The Production Gap</title>
+    <description>We're losing $40 trillion a year to phones, and the fix isn't fewer distractions—it's admitting we stopped building what we actually need. Developed economies are quietly running out of essential workers not because of AI, but because decades of underinvestment in training pipelines and international competition for a fixed talent pool have created a shortage that migration cannot solve and demographic decline accelerates. Synthesized from Economics Explained, Predictive History, Warographics.</description>
+    <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20261004-the-production-gap.mp3" length="27364667" type="audio/mpeg"/>
+    <guid isPermaLink="false">cro-digest-longview-20261004_201643</guid>
+    <pubDate>Sun, 11 Oct 2026 20:25:48 +0000</pubDate>
+    <itunes:duration>00:28:30</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <item>
     <title>The Delegation Illusion</title>
     <description>You can hand off a task to an AI agent, but if it keeps coming back to ask for permission, have you really delegated anything at all? True delegation requires transferring authority, not just tasks: OpenAI's always-on agents and HackerRank's AI interviewer both promise to take work off your plate, but in practice they often still require human permission or produce unverifiable decisions, so the delegation is more theater than reality. Synthesized from IBM Technology, Matt Pocock.</description>
     <enclosure url="https://wilsonhuynh1978-cmyk.github.io/cro-digest/episodes/20261010-the-delegation-illusion.mp3" length="22765026" type="audio/mpeg"/>
